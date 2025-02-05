@@ -7,6 +7,8 @@
 **This repository is a public stub for updates of the application**<br/>
 The source code is maintained on [Yozora](https://yozora.bluesteel.737.jp.net/HarmonyPublic/SOS-Kongou) in accordance to "Harmony Projects Code Control" requirements
 
+# [See the wiki to get started](https://yozora.bluesteel.737.jp.net/HarmonyPublic/SOS-Kongou/wiki/Home)
+
 # Supported Games
 * All Segatools Games
 
