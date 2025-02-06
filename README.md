@@ -5,7 +5,8 @@
 
 # Documentation is maintained on Yozora
 **This repository is a public stub for updates of the application**<br/>
-The source code is maintained on [Yozora](https://yozora.bluesteel.737.jp.net/HarmonyPublic/SOS-Kongou) in accordance to "Harmony Projects Code Control" requirements
+The source code is maintained on [Yozora](https://yozora.bluesteel.737.jp.net/HarmonyPublic/SOS-Kongou) in accordance to "Harmony Projects Code Control" requirements<br/>
+[Project Tracker](https://yozora.bluesteel.737.jp.net/HarmonyPublic/SOS-Kongou/projects/1)
 
 # [See the wiki to get started](https://yozora.bluesteel.737.jp.net/HarmonyPublic/SOS-Kongou/wiki/Home)
 
